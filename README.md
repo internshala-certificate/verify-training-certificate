@@ -1,1 +1,1 @@
-# verify-training-certificate
+# verify-certificate
